@@ -1,11 +1,3 @@
-.header {
-    background-color: #f10fd3;
-    height: 90px;
-    border-radius: 0px 0px 0px 20px;
-    margin-left: 5%;
-    margin-right: 5%;
-}
-
 h4 {
     color: white;
     padding-left: 10px;
@@ -21,7 +13,6 @@ h4 {
 .footer {
     height: 120px;
     margin-top: 50px;
-    background-color: #f10fd3;
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;

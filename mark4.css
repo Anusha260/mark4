@@ -28,7 +28,7 @@
     height: 40px;
     width: 9%;
     color: white;
-    background-color: #f10fd3;
+    background-color: rgb(218, 24, 201);
     border-radius: 60px 60px 60px 60px;
 }
 
@@ -55,7 +55,7 @@
 .footer {
     height: 120px;
     margin-top: 50px;
-    background-color: #f10fd3;
+    background-color: rgb(218, 24, 201);
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
@@ -64,7 +64,7 @@
 }
 
 .header {
-    background-color: #f10fd3;
+    background-color: rgb(218, 24, 201);
     height: 90px;
     border-radius: 0px 0px 0px 20px;
     margin-left: 5%;

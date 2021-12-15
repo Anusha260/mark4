@@ -1,5 +1,5 @@
 .header {
-    background-color: #f10fd3;
+    background-color: rgb(218, 24, 201);
     height: 90px;
     border-radius: 0px 0px 0px 20px;
     margin-left: 5%;
@@ -22,11 +22,11 @@ h4 {
 .divFirst {
     text-align: center;
     margin-top: 5%;
-    height: 70px;
+    height: 100px;
 }
 
 .blogdiv {
-    height: 240px;
+    height: 350px;
     margin-top: 60px;
     text-align: center;
     margin-left: 25%;
@@ -44,11 +44,11 @@ h4 {
     color: white;
     border-radius: 65px 65px 65px 65px;
     border: 1px solid purple;
-    background-color: #f10fd3;
+    background-color: rgb(218, 24, 201);
 }
 
 .blgdiv {
-    height: 260px;
+    height: 350px;
     margin-top: 60px;
     text-align: center;
     margin-left: 25%;
@@ -63,7 +63,7 @@ h4 {
 .footer {
     height: 120px;
     margin-top: 50px;
-    background-color: #f10fd3;
+    background-color: rgb(218, 24, 201);
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
